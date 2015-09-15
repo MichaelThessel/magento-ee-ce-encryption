@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <modules>
+    <MichaelThessel_EnterpriseEncryption>
+      <version>0.1.0</version>
+    </MichaelThessel_EnterpriseEncryption>
+  </modules>
+  <global>
+    <helpers>
+      <core>
+        <encryption_model>MichaelThessel_EnterpriseEncryption_Model_Encryption</encryption_model>
+      </core>
+    </helpers>
+  </global>
+</config>
